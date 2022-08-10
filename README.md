@@ -1,1 +1,1 @@
-Este notbook é usado como material de estudo pelo autor.
+Material de estudo do autor.
